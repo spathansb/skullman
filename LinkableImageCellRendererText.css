@@ -1,0 +1,15 @@
+.textandsubtext{
+  line-height: 2;
+  margin-left: 10px;
+}
+.alignitem{
+  align-items: center;
+}
+.text{
+  color: #808080;
+  font-weight: 700;
+}
+.subtext{
+  color: #808080;
+  font-weight: 300;
+}
